@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2a1198e9-7da0-4b40-bfbe-27760d25217e" />
 # HIV Indicators Analysis Project
 
 ## Overview
